@@ -1,3 +1,3 @@
 # Crawling
 
-1. Finance Naver news title Crawing - .CSV / Construction(title, writer, date)
+1. Finance Naver News Title Crawing - .CSV / Construction(title, writer, date)
